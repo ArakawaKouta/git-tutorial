@@ -1,4 +1,3 @@
 #aaaa
-
-#bb
  - feature-A
+ - fix-B
